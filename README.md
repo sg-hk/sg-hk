@@ -5,4 +5,4 @@ i want to learn more about coding by applying the (very little) i know to issues
 for example:
 - pytimer, a pomodoro timer based on tatsumato but which fits my environment (hyprland)
 - ccq, a much more lightweight and pure version of a python bloatmaxx'd flashcard app i use every day. [IN THE WORKS]
-- ccq-mine, reworking mpvacious and immersive (two mpv scripts) to fit my needs
+- ccq-mine, reworking mpvacious and immersive (two mpv scripts) to fit my needs [DISTANTLY IN THE WORKS]
