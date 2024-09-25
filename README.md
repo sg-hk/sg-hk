@@ -3,6 +3,5 @@
 
 i want to learn more about coding by applying the (very little) i know to issues i have
 for example:
-- pytimer, a pomodoro timer based on tatsumato but which fits my environment (hyprland)
-- ccq, a much more lightweight and pure version of a python bloatmaxx'd flashcard app i use every day. [IN THE WORKS]
-- ccq-mine, reworking mpvacious and immersive (two mpv scripts) to fit my needs [DISTANTLY IN THE WORKS]
+- pytimer, a pomodoro timer based on tatsumato but using hyprland commands.[Note: to be changed to river commands, my current wm]
+- ccq, a sort of very lightweight flashcard app + Chinese parser & dictionary. [Note: very early stage]
