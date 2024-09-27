@@ -3,5 +3,8 @@
 
 i want to learn more about coding by applying the (very little) i know to issues i have
 for example:
-- pytimer, a pomodoro timer based on tatsumato but using hyprland commands.[Note: to be changed to river commands, my current wm]
-- ccq, a sort of very lightweight flashcard app + Chinese parser & dictionary. [Note: very early stage]
+- ccq, lightweight flashcard app in C [Note: currently not working]
+- ctimer, a pomodoro timer in C. Very barebones. Wayland (compositor) / river (wm) / creek (status bar) / tiramisu (notification manager) specific functionalities to be added later
+
+old:
+- pytimer, a pomodoro timer in Python adapted for the hyprland environment. More functionalities than ctimer; but I don't use hyprland now
