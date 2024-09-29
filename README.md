@@ -4,7 +4,7 @@
 i want to learn more about coding by applying the (very little) i know to issues i have
 for example:
 - ccq, lightweight flashcard app in C [Note: currently not working]
-- ctimer, a pomodoro timer in C. Very barebones. Wayland (compositor) / river (wm) / creek (status bar) / tiramisu (notification manager) specific functionalities to be added later
+- ctimer, a pomodoro timer in C. Very barebones, but working
 
 old:
-- pytimer, a pomodoro timer in Python adapted for the hyprland environment. More functionalities than ctimer; but I don't use hyprland now
+- pytimer, a pomodoro timer in Python adapted for the hyprland environment. More functionalities than ctimer (focus app, lock screen, etc.); but depends on hyprland
