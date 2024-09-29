@@ -3,7 +3,7 @@
 
 i want to learn more about coding by applying the (very little) i know to issues i have
 for example:
-- ccq, lightweight flashcard app in C [Note: currently not working]
+- ccq, lightweight flashcard app in C. Very barebones, half-working
 - ctimer, a pomodoro timer in C. Very barebones, but working
 
 old:
